@@ -1,0 +1,11 @@
+# general packages to get, handle and install software
+apt-utils wget git
+locales bzip2 curl
+# command line editors
+vim nano
+# openssh server
+openssh-server
+# ss command to check open ports
+iproute2
+# r
+r-base
